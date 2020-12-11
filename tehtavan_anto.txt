@@ -1,0 +1,13 @@
+Unit Testing
+
+Yksilötehtävä
+
+Tee ohjelma Pythonilla. Ohjelmalle voidaan syöttää käyttäjän ikä - ohjelma palauttaa syötteen perusteella alla olevista vaihtoehdoista oikean ->
+Vastaajan ikä alle 18v -> ”Olet lapsi”
+Vastaajan ikä alle 70v -> ”Olet aikuinen”
+Vastaajan ikä 70+v -> ”Olet eläkeläinen”
+Tee yksikkötestit kaikille kolmelle testitapaukselle.
+
+Lisätehtävä:
+Lisää yksikkötestejä itse. Mieti, millaisia syötteitä (esim. kirjaimia) ohjelmalle voidaan syöttää ja miten virheellisiin syötteisiin tulisi reagoida. Keksi vähintää kolme (3) testiä, jotka mielestäsi tulisi ajaa.
+
